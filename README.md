@@ -5,7 +5,7 @@
 <body style="background-color:#0d1117; color:#c9d1d9; font-family:Segoe UI, sans-serif;">
 
 <h1 align="center">Hey there, I'm Rajat 👋</h1>
-<p align="center"><em>Turning coffee ☕ into code 💻 | MERN Stack Developer | Open Source Contributor</em></p>
+<p align="center"><em>Turning coffee ☕ into code 💻 | MERN Stack Developer | Open Source Contributor | UI/UX Designer</em></p>
 
 <!-- Bento Grid -->
 <table align="center" width="100%" style="table-layout:fixed; border-spacing:20px;">
