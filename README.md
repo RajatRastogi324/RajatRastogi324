@@ -24,21 +24,12 @@
 </ul>
 <h2>💻 Projects</h2>
 <ul>
-  <li><strong>Hospital Management System:</strong> A complete system for managing patient records, appointments, and doctor info.</li>
-  <li><strong>Resume Generator:</strong> Generates professional resumes dynamically using frontend inputs.</li>
-  <li><strong>Discord Clone (Frontend):</strong> UI replica built using HTML, CSS, and JavaScript.</li>
-  <li><strong>Samsung Clone (Frontend):</strong> UI replica built using HTML, CSS, and JavaScript.</li>
-  <li><strong>Email to WhatsApp Sender:</strong> Tool to send WhatsApp messages directly via email interface.</li>
-  <li><strong>Stroke Prediction (Team Project):</strong> Built using Python for health prediction using dataset analysis.</li>
-  <li><strong>Job Simulations (Forage Virtual Experience):</strong>
-    <ul>
-      <li>Tata Group – Data Visualization</li>
-      <li>Walmart – Advanced Software Engineering</li>
-      <li>Accenture UK – Developer Role</li>
-      <li>CBRE – Project Management</li>
-      <li>Deloitte Australia – Technology Consultant</li>
-    </ul>
-  </li>
+  <li><strong>Hospital Management System:</strong> Manages patient records, appointments & doctors.</li>
+  <li><strong>Resume Generator:</strong> Creates dynamic resumes via frontend inputs.</li>
+  <li><strong>Discord & Samsung Clones:</strong> UI replicas built using HTML, CSS & JS.</li>
+  <li><strong>Email to WhatsApp Tool:</strong> Send WhatsApp messages via email UI.</li>
+  <li><strong>Stroke Prediction:</strong> Health predictor using Python & data analysis (Team).</li>
+  <li><strong>Job Simulations – Forage:</strong> Roles at Tata, Walmart, Accenture, CBRE & Deloitte.</li>
 </ul>
 
    </td>
@@ -92,5 +83,13 @@
     </td>
   </tr>
 </table>
+<br><br>
+<hr style="border: 1px solid #30363d;">
+
+<p align="center" style="color:#8b949e; font-size:16px;">
+  🤝 <strong>Open to collaboration & new opportunities</strong><br>
+  🌸 Made with love by <strong>Rajat Rastogi</strong>
+</p>
+
 
 </body>
