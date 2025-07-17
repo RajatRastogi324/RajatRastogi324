@@ -12,17 +12,22 @@
   <!-- Row 1 -->
   <tr>
     <td colspan="2" style="background:#161b22; border-radius:15px; padding:20px;" valign="top">
-      <h2>👨‍💻 About Me</h2>
+      <h2 align="center">👨‍💻 About Me</h2>
       <p>I'm a passionate full-stack developer with a knack for crafting modern web applications using the MERN stack. I love solving DSA problems, contributing to open source, and building cool UIs.</p>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" />
     </td>
     <td style="background:#161b22; border-radius:15px; padding:20px;" valign="top">
-    <h2>📫 Connect With Me</h2>
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/rajat-rastogi-b107552a7" style="color:#58a6ff;">LinkedIn</a></li>
-  <li>📧 <a href="mailto:rastogirajat324@gmail.com" style="color:#58a6ff;">Email</a></li>
-</ul>
-<h2>💻 Projects</h2>
+   <h2 align="center">Contact Me 📩</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Rajat Rastogi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rastogirajat324@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+<h2 align="center">💻 Projects</h2>
 <ul>
   <li><strong>Hospital Management System:</strong> Manages patient records, appointments & doctors.</li>
   <li><strong>Resume Generator:</strong> Creates dynamic resumes via frontend inputs.</li>
@@ -37,7 +42,7 @@
 
   <tr>
     <td style="background:#161b22; border-radius:15px; padding:20px;" valign="top" colspan="2">
-      <h2>💼 Work Experience</h2>
+      <h2 align="center">💼 Work Experience</h2>
 <ul>
   <li><strong>Web Developer Intern – Coding Raja</strong> (Jul 1 – Aug 1, 2023)<br/>
     Developed and deployed frontend components using React and HTML/CSS.
@@ -50,7 +55,7 @@
   </li>
 </ul>
 
-<h2>💼 Tech Stack</h2>
+<h2 align="center">💼 Tech Stack</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
@@ -71,14 +76,14 @@
 
   </td>
  <td style="background:#161b22; border-radius:15px; padding:20px;" valign="top">
-      <h2>📊 GitHub Stats</h2>
+      <h2 align="center">📊 GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=RajatRastogi324&show_icons=true&theme=github_dark" width="100%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=RajatRastogi324&theme=github-dark" width="100%">
     </td>
   </tr> 
   <tr>
     <td colspan="3" style="background:#161b22; border-radius:15px; padding:20px;" valign="top">
-      <h2>📈 Contributions</h2>
+      <h2 align="center">📈 Contributions</h2>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajatRastogi324&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff" width="100%">
     </td>
   </tr>
