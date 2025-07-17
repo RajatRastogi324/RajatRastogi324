@@ -20,7 +20,7 @@
    <h2 align="center">Contact Me 📩</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Rajat Rastogi" target="_blank">
+  <a href="https://www.linkedin.com/in/rajat-rastogi-b107552a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rastogirajat324@gmail.com" target="_blank">
